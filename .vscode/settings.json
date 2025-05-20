@@ -1,0 +1,31 @@
+{
+	"robloxLsp.diagnostics.globals": [
+		"cloneref",
+		"getgenv",
+		"hookfunction",
+		"fetch",
+		"isfolder",
+		"makefolder",
+		"isfile",
+		"readfile",
+		"writefile",
+		"Drawing",
+		"checkcaller",
+		"listfiles",
+		"printf",
+		"gethui",
+		"delfile",
+		"library",
+		"getShortName",
+		"formatName",
+		"isfunctionhooked",
+		"getcallingscript",
+		"getnamecallmethod",
+		"hookmetamethod",
+		"getconnections",
+		"getsenv",
+		"getrenv",
+		"queue_on_teleport",
+		"fireproximityprompt"
+	]
+}
